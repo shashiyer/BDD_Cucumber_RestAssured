@@ -1,5 +1,7 @@
 # BDD_Cucumber_RestAssured
-This project is a POC for calling API request using the Rest Assured and BDD Cucumber framework.
+
+**This project is a POC for calling API request using the Rest Assured and BDD Cucumber framework.**
+
 Used Gherkin syntax for the feature file by downloading the Natural plugin.
 Impelmented a single value and multi value scenario through data driven by providing it as Examples.
 Validation checks are done for the retrieved response body using JUnit.
