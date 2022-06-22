@@ -11,4 +11,4 @@
 7. Explicilty loading the baseUrl from ***properties file*** through ***FileInputStream***.
 8. Explicitly sending all the data to logging.txt file for all the API request called by the user. logging.txt consists of both the Request and Response body for the particular called API through ***FileOutputStream***.
 9. Used ***Enum class*** to retrieve the API resource for the called APIs. 
-10. Ran the prject through the ***TestRunner*** class.
+10. Ran the project through the ***TestRunner*** class.
